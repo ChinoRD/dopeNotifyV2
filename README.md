@@ -1,4 +1,4 @@
-# ESTE SCRIPT MO ES MIO ES DE DOPE PERO YO SE LSO TRAIGO GRATIS APREVECHEN ANTES QUE LO TUMBEN :)
+# ESTE SCRIPT NO ES MIO ES DE DOPE PERO YO SE LSO TRAIGO GRATIS APREVECHEN ANTES QUE LO TUMBEN :)
 
 
 # PREVIEW
@@ -35,4 +35,7 @@ TriggerClientEvent('dopeNotify2:Alert', source, "Title", "Message", Time, 'type'
    4. Aqui estas :)
 
 5. No olvide eliminar las notificaciones de ejemplo en el archivo `clde la línea from line `15` to `51` (o no elimine si no desea)
+
+
+Si necesitas ayuda - Ponte en contacto conmigo en la discordia: Chino#3091
 
